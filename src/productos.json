@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Producto 1 pisado",
+    "description": "Descripción del Producto 1",
+    "code": "P1",
+    "price": 10.99,
+    "status": true,
+    "stock": 100,
+    "category": "Categoría 1",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "id": "1d757f8c-6e3d-4a87-8ca7-eb6e150bdf0f"
+  },
+  {
+    "title": "Producto pisado",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1",
+    "price": 29.99,
+    "status": true,
+    "stock": 50,
+    "category": "Categoría Nueva",
+    "thumbnails": [
+      "image5.jpg"
+    ]
+  },
+  {
+    "title": "Nuevo Productooo",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1",
+    "price": 29.99,
+    "status": true,
+    "stock": 50,
+    "category": "Categoría Nueva",
+    "thumbnails": [
+      "image5.jpg"
+    ],
+    "id": "a22b7419-ea8c-42f3-afd2-bb338606aac1"
+  },
+  {
+    "title": "Nuevo Productooosss",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1",
+    "price": 29.99,
+    "status": true,
+    "stock": 50,
+    "category": "Categoría Nueva",
+    "thumbnails": [
+      "image5.jpg"
+    ],
+    "id": "7caaca5b-bc75-4c9d-895e-60a9e268a159"
+  }
+]
